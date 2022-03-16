@@ -93,15 +93,15 @@ So below I made a list of leetcode problems that are as close to grokking proble
 - [ ] https://leetcode.com/problems/find-right-interval/
 
 ## Pattern: Subsets
-- [ ] https://leetcode.com/problems/subsets/
-- [ ] https://leetcode.com/problems/subsets-ii/
-- [ ] https://leetcode.com/problems/permutations/
-- [ ] https://leetcode.com/problems/letter-case-permutation/
-- [ ] https://leetcode.com/problems/generate-parentheses/
-- [ ] https://leetcode.com/problems/generalized-abbreviation/
-- [ ] https://leetcode.com/problems/different-ways-to-add-parentheses/
-- [ ] https://leetcode.com/problems/unique-binary-search-trees-ii/
-- [ ] https://leetcode.com/problems/unique-binary-search-trees/
+- [x] https://leetcode.com/problems/subsets/
+- [x] https://leetcode.com/problems/subsets-ii/
+- [x] https://leetcode.com/problems/permutations/
+- [x] https://leetcode.com/problems/letter-case-permutation/
+- [x] https://leetcode.com/problems/generate-parentheses/
+- [x] https://leetcode.com/problems/generalized-abbreviation/
+- [x] https://leetcode.com/problems/different-ways-to-add-parentheses/
+- [x] https://leetcode.com/problems/unique-binary-search-trees-ii/
+- [x] https://leetcode.com/problems/unique-binary-search-trees/
 
 ## Pattern: Modified Binary Search
 - [ ] https://leetcode.com/problems/binary-search/  # Close enough. The grokking problem allows sorted input arrays as ascending or descending, which only introduces a simple check
