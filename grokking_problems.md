@@ -43,12 +43,12 @@ So below I made a list of leetcode problems that are as close to grokking proble
 - [ ] https://leetcode.com/problems/circular-array-loop/
 
 ## Pattern: Merge Intervals
-- [ ] https://leetcode.com/problems/merge-intervals/
-- [ ] https://leetcode.com/problems/insert-interval/
-- [ ] https://leetcode.com/problems/interval-list-intersections/
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/
+- [x] https://leetcode.com/problems/merge-intervals/
+- [x] https://leetcode.com/problems/insert-interval/
+- [x] https://leetcode.com/problems/interval-list-intersections/
+- [ ] https://leetcode.com/problems/meeting-rooms-ii/ - Premium
 - [ ] Could not find equivalent. Given a list of intervals with values, find the peak sum (i.e. if intervals are overlapping, sum their values)
-- [ ] https://leetcode.com/problems/employee-free-time/
+- [ ] https://leetcode.com/problems/employee-free-time/ - Premium
 
 ## Pattern: Cyclic Sort
 
