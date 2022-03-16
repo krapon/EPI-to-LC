@@ -1,4 +1,6 @@
 From https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4 
+See also https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions and https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns if some questions are not found in this list
+
 # GROKKING NOTES
 
 I liked the way Grokking the coding interview organized problems into learnable patterns. However, the course is expensive and the majority of the time the problems are copy-pasted from leetcode. As the explanations on leetcode are usually just as good, the course really boils down to being a glorified curated list of leetcode problems.
@@ -46,9 +48,9 @@ So below I made a list of leetcode problems that are as close to grokking proble
 - [x] https://leetcode.com/problems/merge-intervals/
 - [x] https://leetcode.com/problems/insert-interval/
 - [x] https://leetcode.com/problems/interval-list-intersections/
-- [ ] https://leetcode.com/problems/meeting-rooms-ii/ - Premium
-- [ ] Could not find equivalent. Given a list of intervals with values, find the peak sum (i.e. if intervals are overlapping, sum their values)
-- [ ] https://leetcode.com/problems/employee-free-time/ - Premium
+- [x] https://leetcode.com/problems/meeting-rooms-ii/ - Leetcode Premium. Same as https://www.lintcode.com/problem/919/
+- [x] https://leetcode.com/problems/car-pooling/ Similar (check if peak > capaacity). Could not find equivalent. Given a list of intervals with values, find the peak sum (i.e. if intervals are overlapping, sum their values)
+- [x] https://leetcode.com/problems/employee-free-time/ - Premium. https://www.lintcode.com/problem/850/
 
 ## Pattern: Cyclic Sort
 
