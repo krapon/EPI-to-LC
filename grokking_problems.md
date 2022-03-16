@@ -116,8 +116,8 @@ So below I made a list of leetcode problems that are as close to grokking proble
 - [ ] Similar to previous, but find the number of rotations of the array.
 
 ## Pattern: Bitwise XOR
-- [ ] https://leetcode.com/problems/single-number/
-- [ ] https://leetcode.com/problems/single-number-iii/
+- [x] https://leetcode.com/problems/single-number/
+- [x] https://leetcode.com/problems/single-number-iii/
 - [ ] https://leetcode.com/problems/complement-of-base-10-integer/
 - [ ] https://leetcode.com/problems/flipping-an-image/
 
